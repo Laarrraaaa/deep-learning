@@ -1,0 +1,1 @@
+Basic implementation of neural networks for study purposes
